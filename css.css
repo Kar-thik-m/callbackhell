@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(230, 227, 227, 0.623);
+}
+div{
+    text-align: center;
+    font-weight: 1000;
+    font-style: italic;
+    font-size: 10vh;
+    margin-top: 40vb;
+    color: rgb(19, 19, 18);
+}
